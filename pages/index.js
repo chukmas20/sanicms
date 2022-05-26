@@ -1,5 +1,5 @@
 import styles from '../styles/Home.module.css'
-import {Alert, CircularProgress, Grid, Typography} from '@mui/material';
+import {Alert, CircularProgress, Grid} from '@mui/material';
 import Layout from '../components/Layout';
 import { useEffect, useState, useContext } from 'react';
 import client from '../utils/client';
